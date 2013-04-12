@@ -46,6 +46,8 @@
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.js" />
      <Compile Include="Assets\finitestatevillager.js" />
+     <Compile Include="Assets\scripts\CandyCountShow.js" />
+     <Compile Include="Assets\scripts\candyscript.js" />
  <Reference Include="Library\ScriptAssemblies\Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
