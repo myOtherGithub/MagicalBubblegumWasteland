@@ -45,9 +45,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.js" />
-     <Compile Include="Assets\finitestatevillager.js" />
      <Compile Include="Assets\scripts\CandyCountShow.js" />
      <Compile Include="Assets\scripts\candyscript.js" />
+     <Compile Include="Assets\scripts\finitestatevillager.js" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
