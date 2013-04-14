@@ -25,7 +25,6 @@ if(villagerstate == 0) {  //LOOK FOR AND GET CANDY
 	if(distance < 3) {	//if distance is close
 	if(CandyCountShow.candycontainer > 0){  //if player has candy
 	 if (Input.GetKey (KeyCode.Space)){
-	 
 	CandyCountShow.candycontainer = CandyCountShow.candycontainer - 1; //takes its candy
 	//MagicBoulder.supercount = MagicBoulder.supercount +1;
 	villagerstate = 1;
@@ -34,13 +33,12 @@ if(villagerstate == 0) {  //LOOK FOR AND GET CANDY
   }
 } 
 if(villagerstate == 1) {  //Run snippy comment for getting candy
+//ToggleVisibility(); //togglesvisibility of text baloon 1
 
-
-
-
-
-
-
+//function ToggleVisibility() {
+  //   toggles the visibility of this gameobject and all it's children
+    //var renderers = gameObject.GetComponentsInChildren.()
+uninannerbabblescript.showme = true;
 
 }
 else { //continue to say snippy things if player is near
