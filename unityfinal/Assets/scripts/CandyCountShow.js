@@ -1,6 +1,6 @@
 #pragma strict
 
-var candycontainer = 0;
+static var candycontainer = 0;
 
 function Start () {
 
