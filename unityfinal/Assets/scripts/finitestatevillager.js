@@ -38,9 +38,26 @@ if(villagerstate == 1) {  //Run snippy comment for getting candy
 //function ToggleVisibility() {
   //   toggles the visibility of this gameobject and all it's children
     //var renderers = gameObject.GetComponentsInChildren.()
+if(gameObject.name == "uninanner"){
 uninannerbabblescript.showme = true;
+}
+if (gameObject.name == "catshroom"){
+catshroombabblescript.showme = true;
+}
+if (gameObject.name == "shape"){
+shapebabblescript.showme = true;
+}
+if (gameObject.name == "noface"){
+nofacebabblescript.showme = true;
+}
+if(gameObject.name == "porcupineapple") {
+porcupineapplebabblescript.showme = true;
+}
+
 
 }
+
+
 else { //continue to say snippy things if player is near
 
 
