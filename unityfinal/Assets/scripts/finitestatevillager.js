@@ -26,7 +26,7 @@ if(villagerstate == 0) {  //LOOK FOR AND GET CANDY
 	if(CandyCountShow.candycontainer > 0){  //if player has candy
 	 if (Input.GetKey (KeyCode.Space)){
 	CandyCountShow.candycontainer = CandyCountShow.candycontainer - 1; //takes its candy
-	//MagicBoulder.supercount = MagicBoulder.supercount +1;
+	bouldergoaway.supercount = bouldergoaway.supercount + 1;
 	villagerstate = 1;
 	}
 	}
@@ -53,11 +53,10 @@ nofacebabblescript.showme = true;
 if(gameObject.name == "porcupineapple") {
 porcupineapplebabblescript.showme = true;
 }
-
-
+if(gameObject.name == "waterhorse") {
+waterhorsebabblescript.showme = true;
 }
-
-
+}
 else { //continue to say snippy things if player is near
 
 

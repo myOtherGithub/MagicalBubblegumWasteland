@@ -26,5 +26,6 @@ var distance = Vector3.Distance(myPosition, position);
 if(distance < 1){
 	Destroy (gameObject);
 	CandyCountShow.candycontainer = CandyCountShow.candycontainer + 1;
+	bouldergoaway.supercount = bouldergoaway.supercount + 1;
 	}
 }
