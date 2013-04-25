@@ -7,7 +7,7 @@ function Start () {
 function Update () {
 
 	
-	if(supercount == 8){  //if player has candy
+	if(supercount == 1){  //if player has candy
 		Destroy(this.gameObject);
 		renderer.enabled = !renderer.enabled;
 	}

@@ -3,7 +3,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Character Controllers\Sources\Scripts\villagers.js">
     <Files>
       <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\villagers.js" Line="14" Column="6" />
-      <File FileName="Assets\dilogue\uninanner\catshroombabblescript.js" Line="9" Column="5" />
+      <File FileName="Assets\dilogue\uninanner\catshroombabblescript.js" Line="2" Column="1" />
+      <File FileName="Assets\bouldergoaway.js" Line="10" Column="20" />
+      <File FileName="Assets\scripts\finitestatevillager.js" Line="15" Column="61" />
+      <File FileName="Assets\dilogue\uninanner\princessbabble.js" Line="11" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

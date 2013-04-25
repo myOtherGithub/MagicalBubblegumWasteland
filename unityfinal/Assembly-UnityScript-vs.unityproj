@@ -49,6 +49,8 @@
      <Compile Include="Assets\dilogue\uninanner\catshroombabblescript.js" />
      <Compile Include="Assets\dilogue\uninanner\nofacebabblescript.js" />
      <Compile Include="Assets\dilogue\uninanner\porcupineapplebabblescript.js" />
+     <Compile Include="Assets\dilogue\uninanner\princessbabble.js" />
+     <Compile Include="Assets\dilogue\uninanner\princessbabblescript.js" />
      <Compile Include="Assets\dilogue\uninanner\shapebabblescript.js" />
      <Compile Include="Assets\dilogue\uninanner\uninannerbabblescript.js" />
      <Compile Include="Assets\dilogue\uninanner\waterhorsebabblescript.js" />
