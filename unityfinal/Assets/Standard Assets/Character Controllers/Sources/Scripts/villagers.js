@@ -1,6 +1,6 @@
 var targetPosition :Transform; // we have to add in the Inspector our target
 //var target : Transform;
-var damp: int = 10; // we can change the slerp velocity here
+var damp: float = .5; // we can change the slerp velocity here
  
 function Update ()
 {
